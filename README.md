@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muizz Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Muizz</h1>
 <h3 align="center">Linux | Cybersecurity | AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muizz2811&label=Profile%20views&color=0e75b6&style=flat" alt="muizz2811" /> </p>
